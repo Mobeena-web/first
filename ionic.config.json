@@ -1,0 +1,7 @@
+{
+  "name": "Healthy Women App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
